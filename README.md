@@ -20,5 +20,5 @@ Il simplifie la gestion des dépendances.
 
 >Petit programme complementaire permettant d'ajouter des fonctionnalités.
 
->Maven utilise des plugins pour étendre ses fonctionnalités(ex: executer des test, compliler du code, etc.).
+>Maven utilise des plugins pour étendre ses fonctionnalités(ex: executer des test, compiler du code, etc.).
 
