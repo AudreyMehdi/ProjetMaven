@@ -1,0 +1,52 @@
+<mxfile host="Electron" modified="2023-11-13T10:20:25.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="7Fp3iewAAIbXHCA3wFYP" version="22.0.3" type="device">
+  <diagram name="Page-1" id="2Qbx0WVdMyfwuTDseRO_">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-10" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="340" width="580" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-1" value="projet java" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="410" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-2" value="pom.xml" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="235" width="140" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-3" value="code source" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-4" value="dependances, (ex: framework, biblio)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-5" value="plugins (ex : test)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-6" value="info de configuration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3IAZKJ4ioL8xaFFBIfBV-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414" y="440" as="sourcePoint" />
+            <mxPoint x="354" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-8" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="3IAZKJ4ioL8xaFFBIfBV-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="250" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="450" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3IAZKJ4ioL8xaFFBIfBV-11" value="maven" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="570" width="190" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
